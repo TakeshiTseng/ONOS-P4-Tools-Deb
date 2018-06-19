@@ -1,0 +1,9 @@
+ONOS-P4-Tools-Deb
+====
+
+Packaged libraries and toools for ONOS P4 develpment on Debian based machine
+
+Download latest version from "Releases" page of this repository
+
+To install, use run `install.sh`
+
